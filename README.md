@@ -1,3 +1,3 @@
 # test_demo
-## tmall demo
+## JD demo
 > init 
